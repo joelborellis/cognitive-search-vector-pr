@@ -1,0 +1,17 @@
+The excerpt provided talks in detail about the anxiety disorder due to another medical condition according to DSM 5 and its diagnostic markers, frequency of occurrence, indicators in development and course, and differential diagnosis. 
+
+In summary, the diagnostic criteria for an Anxiety Disorder due to another medical condition (F06.4) are as follows:
+     
+     A. The prominent clinical picture is panic attacks or anxiety.
+     B. There is evidence from the history, physical examination, or laboratory findings that the disturbance is the direct pathophysiological consequence of another medical condition.
+     C. The disturbance is not explained better by another mental disorder.
+     D. The disturbance does not occur exclusively during the course of a delirium.
+     E. The disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+The diagnosis of this disorder requires certainty that the anxiety symptoms are etiologically linked to the medical condition through a physiological mechanism and the condition must be evident through history, a physical examination, or lab findings. Several aspects of the clinical presentation are to be considered during this diagnosis. 
+
+Several medical conditions such as endocrine disease, cardiovascular disorders, respiratory illness, metabolic disturbances, and neurological illness are known to manifest anxiety symptoms. An elevated prevalence of anxiety disorders among individuals with medical conditions is observed. The development and course of the anxiety disorder generally follow the course of the underlying illness.
+
+For differential diagnosis, it is important to differentiate the anxiety disorder due to another medical condition from other anxiety disorders (e.g., panic disorder, generalized anxiety disorder), substance/medication-induced anxiety disorder, and illness anxiety disorder in which the medical condition is not physiologically related to the anxiety symptoms.
+
+In some cases, where the anxiety disorder does not meet the full criteria for any specific anxiety disorder but causes distress or impairment in functioning, it is known as Other Specified Anxiety Disorder (F41.8). Unspecified Anxiety Disorder (F41.9) is when it is decided not to specify the reason that the criteria are not met for a specific anxiety disorder.
